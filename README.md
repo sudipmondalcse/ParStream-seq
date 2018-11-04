@@ -52,6 +52,6 @@ To run the threadqrr.jar the jar option are : < 1 > < 2 > < 3 > < 4 > < 5 >
 
 
 Go through the manual.doc file for the same instruction.
-Further information mail me at sudip.wbsu@gmail.com
+Any further information mail me at sudip.wbsu@gmail.com
 
 
