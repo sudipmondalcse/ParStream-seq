@@ -40,7 +40,7 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 	* To run the qrrstream.jar the jar option are : < 1 > < 2 > < 3 >  <br/>
 		1 -	input file with .fa extension 			    
 		2 -	output file with .sam extension <br/>
-		3 -	number of split fixed size – 2/4/8 <br/>
+		3 -	number of split fixed size – 2/4/8
 
 * merge_sam_out.sh file for merge all the split result to a single result file.
 * There are already mentioned Hadoop commands to put all the file into HDFS or a single file into HDFS. <br/>
