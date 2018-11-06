@@ -42,7 +42,7 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 		2 -	output file with .sam extension <br/>
 		3 -	number of split fixed size – 2/4/8 <br/>
 
-* merge_sam_out.sh file for merge all the split result to a single result file. <br/>
+* merge_sam_out.sh file for merge all the split result to a single result file.
 * There are already mentioned Hadoop commands to put all the file into HDFS or a single file into HDFS. <br/>
 
 Go through the **manual.doc** file for the same instruction.<br/>
