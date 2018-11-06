@@ -45,7 +45,7 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 * merge_sam_out.sh file for merge all the split result to a single result file. <br/>
 * There are already mentioned Hadoop commands to put all the file into HDFS or a single file into HDFS. <br/>
 
-Go through the manual.doc file for the same instruction.<br/>
+Go through the **manual.doc** file for the same instruction.<br/>
 
 
 Any further information mail me at sudip.wbsu@gmail.com
