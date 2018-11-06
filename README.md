@@ -2,7 +2,7 @@
 ## User guide :
 
 ### Prerequisites :
-
+<pre>
 The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.7.2 <br/>
 **ParStream-seq** is tested to work under Ubuntu 14.04 and the important instructions to run it  are given below : - <br/>
     • Firstly, need to setup a Hadoop Single Node or multinode Cluster to store the data file into HDFS. <br/>
@@ -45,7 +45,7 @@ N.B – the reference file indices (.bt2) should be kept in the working director
 merge_sam_out.sh file for merge all the split result to a single result file.
 There are already mentioned Hadoop commands to put all the file into HDFS or a single file into HDFS.
 
-
+</pre>
 
 Go through the manual.doc file for the same instruction.
 Any further information mail me at sudip.wbsu@gmail.com
