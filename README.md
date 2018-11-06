@@ -7,10 +7,10 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 **ParStream-seq** is tested to work under Ubuntu 14.04 and the important instructions to run it  are given below : - <br/>
 * Firstly, need to setup a Hadoop Single Node or multinode Cluster to store the data file into HDFS. <br/>
 * You can copy (upload) a file from the local filesystem to a specific HDFS using the fs put command. <br/>
-	- Hadoop fs put –from source_path_and_file –to dest_path_and_file <br/>
-		- The specified file or directory is copied from local filesystem to the HDFS. <br/>
+	Hadoop fs put –from source_path_and_file –to dest_path_and_file <br/>
+	  The specified file or directory is copied from local filesystem to the HDFS. <br/>
 * To run a jar file using Terminal, the syntax is :  <br/>
-		- Java -jar <jar filename.jar> arg1 arg2 agr3 ... <br/>
+	Java -jar <jar filename.jar> arg1 arg2 agr3 ... <br/>
 
 # To Start a run : <br/>
 * To execute the alignment process with existing reference indices and also comparing different bowtie2 threads. <br/>
@@ -38,7 +38,7 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 * To execute the alignment process with reference file split and java threads and query file splits <br/>
 	N.B – the reference file indices (.bt2) should be kept in the working directory. <br/>
 	* To run the qrrstream.jar the jar option are : < 1 > < 2 > < 3 >  <br/>
-		1 -	input file with .fa extension <br/>			    
+		1 -	input file with .fa extension 			    
 		2 -	output file with .sam extension <br/>
 		3 -	number of split fixed size – 2/4/8 <br/>
 
