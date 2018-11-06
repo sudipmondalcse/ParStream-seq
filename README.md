@@ -2,7 +2,7 @@
 ## User guide :
 
 ### Prerequisites :
-<pre>
+
 The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.7.2 <br/>
 **ParStream-seq** is tested to work under Ubuntu 14.04 and the important instructions to run it  are given below : - <br/>
     • Firstly, need to setup a Hadoop Single Node or multinode Cluster to store the data file into HDFS. <br/>
@@ -11,10 +11,10 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 		- The specified file or directory is copied from local filesystem to the HDFS. <br/>
     • To run a jar file using Terminal, the syntax is :  <br/>
 		- Java -jar <jar filename.jar> arg1 arg2 agr3 ... <br/>
-</pre>
+
 # To Start a run : <br/>
  • To execute the alignment process with existing reference indices and also comparing different bowtie2 threads. <br/>
-	To run the normalrun.jar the jar option are : < 1 > < 2 > < 3 > < 4 > <br/>
+	&npsp; To run the normalrun.jar the jar option are : < 1 > < 2 > < 3 > < 4 > <br/>
 	1 -	reference file with .bt2 extension <br/>
 	2 -	query file with .fa extension  <br/>
 	3 -	output file with .sam extension  <br/>
