@@ -1,4 +1,4 @@
-# ParStream-seq :
+# ParStream-seq 
 ## User guide :
 
 ### Prerequisites :
@@ -7,10 +7,10 @@ The required dependencies for ParStream-seq are JDK – 1.8 and Hadoop >= 2.7.2 
 ParStream-seq is tested to work under Ubuntu 14.04 and the important instructions to run it  are given below : - <br/>
     • Firstly, need to setup a Hadoop Single Node or multinode Cluster to store the data file into HDFS. <br/>
     • You can copy (upload) a file from the local filesystem to a specific HDFS using the fs put command. <br/>
-	Hadoop fs put –from source_path_and_file –to dest_path_and_file <br/>
-		The specified file or directory is copied from local filesystem to the HDFS. <br/>
+	- Hadoop fs put –from source_path_and_file –to dest_path_and_file <br/>
+		- The specified file or directory is copied from local filesystem to the HDFS. <br/>
     • To run a jar file using Terminal, the syntax is :  <br/>
-		Java -jar <jar filename.jar> arg1 arg2 agr3 ... <br/>
+		- Java -jar <jar filename.jar> arg1 arg2 agr3 ... <br/>
 
 # To Start a run :
 To execute the alignment process with existing reference indices and also comparing different bowtie2 threads.
