@@ -47,7 +47,7 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 
 Go through the **user_manual.doc** file for the same instruction.<br/>
 
-
+####Feedback
 Any further information mail me at sudip.wbsu@gmail.com
 
 
