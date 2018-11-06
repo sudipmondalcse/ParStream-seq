@@ -11,7 +11,7 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 		- The specified file or directory is copied from local filesystem to the HDFS. <br/>
     • To run a jar file using Terminal, the syntax is :  <br/>
 		- Java -jar <jar filename.jar> arg1 arg2 agr3 ... <br/>
-
+</pre>
 # To Start a run : <br/>
  • To execute the alignment process with existing reference indices and also comparing different bowtie2 threads. <br/>
 	To run the normalrun.jar the jar option are : < 1 > < 2 > < 3 > < 4 > <br/>
@@ -45,7 +45,7 @@ N.B – the reference file indices (.bt2) should be kept in the working director
 merge_sam_out.sh file for merge all the split result to a single result file.
 There are already mentioned Hadoop commands to put all the file into HDFS or a single file into HDFS.
 
-</pre>
+
 
 Go through the manual.doc file for the same instruction.
 Any further information mail me at sudip.wbsu@gmail.com
