@@ -10,7 +10,7 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 	<em> Hadoop fs put –from source_path_and_file –to dest_path_and_file </em> <br/>
 		The specified file or directory is copied from local filesystem to the HDFS. <br/>
 * To run a jar file using Terminal, the syntax is :  <br/>
-	Java -jar <jar filename.jar> arg1 arg2 agr3 ... <br/>
+	<em>Java -jar <jar filename.jar> arg1 arg2 agr3 ...</em> <br/>
 
 # To Start a run : <br/>
 * To execute the alignment process with existing reference indices and also comparing different bowtie2 threads. <br/>
