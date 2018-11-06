@@ -20,14 +20,14 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 		3 -	output file with .sam extension  <br/>
 		4 -	number of Bowtie2 threads  – 2 to 8  <br/>
 
- * To execute the alignment process with multiple reference file indices using java threads <br/>
+ * To execute the alignment process with multiple reference file indices using java threads. <br/>
 	* To run the npthrdrun.jar the jar option are : < 1 > < 2 > < 3 > < 4 > <br/>
 		1 -	reference file with .bt2 extension <br/>
 		2 -	query file with .fa extension <br/>
 		3 -	output file with .sam extension <br/>
 		4 -	number of threads  – 2 to 8 <br/>
 
-* To execute the alignment process with reference file split and java threads <br/>
+* To execute the alignment process with reference file split and java threads. <br/>
 	* To run the threadqrr.jar the jar option are : < 1 > < 2 > < 3 > < 4 > < 5 > <br/>
 		1 -	reference file with .bt2 extension <br/>
 		2 -	query file with .fa extension <br/>
@@ -35,7 +35,7 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 		4 -	number of split	- 2/4/8 <br/>
 		5 -	number of threads – 2 to 8 <br/>
 
-* To execute the alignment process with reference file split and java threads and query file splits <br/>
+* To execute the alignment process with reference file split and java threads and query file splits. <br/>
 	N.B – the reference file indices (.bt2) should be kept in the working directory. <br/>
 	* To run the qrrstream.jar the jar option are : < 1 > < 2 > < 3 >  <br/>
 		1 -	input file with .fa extension 			    
