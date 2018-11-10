@@ -3,7 +3,7 @@
 
 ### Prerequisites :
 
-The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.7.2 <br/>
+The required dependencies for **ParStream-seq** are JDK – 1.8, Bowtie2 Version >= 2.3.4 and Hadoop >= 2.7.2 <br/>
 **ParStream-seq** is tested to work under Ubuntu 14.04 and the important instructions to run it  are given below : - <br/>
 * **Firstly,** need to setup a Hadoop Single Node or Multinode Cluster to store all the data file into HDFS. <br/>
 * You can copy (upload) a file from the local filesystem to a specific HDFS using the fs put command. <br/>
