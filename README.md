@@ -11,6 +11,7 @@ The required dependencies for **ParStream-seq** are JDK – 1.8 and Hadoop >= 2.
 		The specified file or directory is copied from local filesystem to the HDFS. <br/>
 * To run a jar file using Terminal, the syntax is :  <br/>
 	<em>Java -jar <jar filename.jar> arg1 arg2 agr3 ...</em> <br/>
+* Using the syntax  <em> bowtie2-build  </em>can index reference genomes of any size. Use a specific path to store all the indices file (.bt2) for further alignment process. <br/>
 
 ### To start a run : <br/>
 * To execute the alignment process with existing reference indices and also comparing different bowtie2 threads. <br/>
