@@ -1,5 +1,7 @@
 # ParStream-seq 
 
+## Cite :
+Mondal, S., Maji, R. K., Ghosh, Z., & Khatua, S. (2019). ParStream-seq: An improved method of handling next generation sequence data. Genomics, 111(6), 1641-1650.
 
 ### Prerequisites :
 
