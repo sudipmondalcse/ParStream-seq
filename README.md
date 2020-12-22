@@ -50,6 +50,6 @@ The required dependencies for **ParStream-seq** are JDK – 1.8, Bowtie2 Version
 Go through the **user_manual.doc** file for the same instruction.<br/>
 
 #### Feedback <br/>
-Any further information mail me at sudip.wbsu@gmail.com
+Any further information mail me at smcse_rs@caluniv.ac.in
 
 
